@@ -25,3 +25,6 @@ iphone portrait ios 5,6 1x 320x480
 iphone portrait ios 5,6 2x 640x960
 
 iphone portrait ios 5,6 Retina 4 640x1136
+
+icon 生成
+https://icon.wuruihong.com/
