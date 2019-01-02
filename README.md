@@ -28,3 +28,6 @@ iphone portrait ios 5,6 Retina 4 640x1136
 
 icon 生成
 https://icon.wuruihong.com/
+
+多语言工具
+Poedit
