@@ -31,3 +31,6 @@ https://icon.wuruihong.com/
 
 多语言工具
 Poedit
+
+lua关闭模式匹配
+'[^'..v.key..']'
