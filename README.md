@@ -34,3 +34,7 @@ Poedit
 
 lua关闭模式匹配
 '[^'..v.key..']'
+
+图片字体制作软件
+shoebox
+
